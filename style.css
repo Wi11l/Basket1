@@ -1,0 +1,83 @@
+body {
+  background-image: url(./Image.jpg) ;
+  background-position: center;
+  background-size: cover;
+  margin: 0 50px 0 50px;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
+
+#Cplayer {
+  background-color: blue;
+}
+
+#Ccoach {
+  background-color: green;
+}
+
+#Clogo {
+}
+
+#Mlogo {
+}
+
+#Chistory {
+ background-color: blanchedalmond; 
+}
+
+#Ctrophy {
+  background-color: blueviolet;
+}
+
+#Mtrophy {
+  background-color: blanchedalmond;
+} 
+
+#Mhistory {
+  background-color: pink;
+}
+
+#Mplayer {
+  background-color: brown;
+}
+
+#Mcoach {
+  background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 319px) and (max-width: 480px) {
+  body {
+    
+  }
+}
+
+@media (min-width: 481px) and (max-width: 1200px) {
+  body {
+    
+  }
+}
+
+@media (min-width: 1201px) and (max-width: 1600px) {
+  body {
+    
+  }
+}
+
+@media (min-width: 1601px) {
+  body {
+    
+  }
+}
